@@ -46,7 +46,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _con
   \*********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (() => {\n  return `<!doctype html>\n\t<html lang=\"en\">\n\t<head>\n\t<meta charset=\"utf-8\">\n\t<title> A/B Testing </title>\n\t</head>\n\t<body style=\"margin:0\">\n\t<div id=\"root\">Hello World</div>\n\t</body>\n\t</html>`;\n});\n\n//# sourceURL=webpack://a_b_metric/./template.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (() => {\n  return `<!doctype html>\n <html lang=\"en\">\n <head>\n <meta charset=\"utf-8\">\n <title> A/B Testing </title>\n </head>\n <body style=\"margin:0\">\n <div id=\"root\">Hello World</div>\n </body>\n </html>`;\n});\n\n//# sourceURL=webpack://a_b_metric/./template.js?");
 
 /***/ }),
 
