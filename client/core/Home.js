@@ -45,7 +45,7 @@ export default function Home(){
 color="textSecondary">Photo: Robin</Typography>
  <CardContent>
  <Typography variant="body1" component="p">
- Welcome to Lab 6 home page.
+ Welcome A/B Testing home page.
  </Typography>
  </CardContent>
  </Card>
