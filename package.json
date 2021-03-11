@@ -8,15 +8,10 @@
     "build": "webpack --config webpack.config.client.production.js && webpack --mode=production --config webpack.config.server.js",
     "start": "NODE_ENV=production node ./dist/server.generated.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BruceWiseman/A_B_Metric.git"
-  },
+
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/BruceWiseman/A_B_Metric/issues"
-  },
+
   "homepage": "https://github.com/BruceWiseman/A_B_Metric#readme",
   "devDependencies": {
     "@babel/core": "^7.13.8",
