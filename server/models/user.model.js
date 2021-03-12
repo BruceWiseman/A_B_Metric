@@ -26,6 +26,19 @@ const UserSchema = new mongoose.Schema({
 	created: {
 		type: Date,
 		default: Date.now
+	},
+	about:{
+		type: String,
+		trim: true
+	},
+	profileclicks:{
+		type: Number,
+		min: 0,
+		default: 0
+	},
+	admin: {
+		type: Boolean,
+		default: false
 	}
 })
 
